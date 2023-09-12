@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705534787695",
+    "project_id": "housematic-radio",
+    "storage_bucket": "housematic-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705534787695:android:83b3d3537cadacb05f4d9a",
+        "android_client_info": {
+          "package_name": "com.app.housematic_radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705534787695-v3qg84d5hd0uv5c2p0cbrr6i44t5s2j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagfQcZHuwpm67ni7r72Pjd9_QsKtoy4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705534787695-v3qg84d5hd0uv5c2p0cbrr6i44t5s2j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
